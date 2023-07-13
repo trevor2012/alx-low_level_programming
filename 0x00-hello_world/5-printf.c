@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - 5-printf.c
- * description - Write a C program that prints exactly with proper grammar followed by a new line.
+ * description - Write a C program that prints exactly with proper grammar f.
  *
  * Return: Always 0 (Success)
  */
